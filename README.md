@@ -20,10 +20,6 @@ This project is an interactive Power BI dashboard created to analyze e-commerce 
 - Analyzed monthly sales trends
 - Compared regional performance
 
-## Dashboard Preview
-
-![Dashboard](screenshots/dashboard.png)
-
 ## File
 Power BI dashboard:
 powerbi/E-Commerce Sales Analytics Dashboard.pbix
